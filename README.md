@@ -1,5 +1,4 @@
-@GetGrass-Bot
-这是一个专为小草空投第二季设计的机器人
+GetGrass-Bot小草空投第二季设计的机器人
 https://app.getgrass.io/register/?referralCode=r-Zyw2M5VB49nhY
 
 功能
