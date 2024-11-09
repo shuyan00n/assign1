@@ -46,4 +46,8 @@ socks5://username:password@hostname:port
 
 在终端中执行以下命令运行 GetGrass-Bot：
 
+scrren -s grass
+
 npm start
+
+
