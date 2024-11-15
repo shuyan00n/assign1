@@ -6,7 +6,6 @@ https://app.getgrass.io/register/?referralCode=r-Zyw2M5VB49nhY
 
 ✅ 支持自定义代理
 
-
 安装步骤
 将此仓库克隆到你的本地环境：
 
