@@ -2,6 +2,7 @@ GetGrass-Bot小草空投第二季设计的机器人
 https://app.getgrass.io/register/?referralCode=r-Zyw2M5VB49nhY
 
 功能
+
 ✅ 支持one UID
 
 ✅ 支持自定义代理
