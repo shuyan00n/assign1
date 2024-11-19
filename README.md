@@ -4,7 +4,6 @@ https://app.getgrass.io/register/?referralCode=r-Zyw2M5VB49nhY
 功能
 
 ✅ 支持one UID
-
 ✅ 支持自定义代理
 
 安装步骤
