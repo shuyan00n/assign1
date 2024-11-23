@@ -40,7 +40,6 @@ localStorage.getItem('userId');
 添加代理信息：
 
 创建一个名为 proxy.txt 的文件，并按行添加你的代理 URL，格式如下：
-
 http://username:password@hostname:port
 socks5://username:password@hostname:port
 启动机器人：
@@ -50,5 +49,3 @@ socks5://username:password@hostname:port
 scrren -s grass
 
 npm start
-
-
