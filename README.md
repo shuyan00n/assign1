@@ -9,8 +9,6 @@ https://app.getgrass.io
 
 将此仓库克隆到你的本地环境：
 
-git clone https://github.com/ziqing888/getgrass-bot.git
-
 进入项目目录：
 
 cd getgrass-bot
@@ -18,6 +16,9 @@ cd getgrass-bot
 npm install
 使用说明
 获取用户 ID：
+
+
+
 
 登录到 GetGrass 网站: https://app.getgrass.io/dashboard
 
